@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomaedempsterih00bann_0070.png"; bbox 0 0 1861 2682; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 288 1017 1404 1157">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 288 1017 1404 1157">
+     <span class='ocr_line' id='line_1_1' title="bbox 288 1017 1404 1061; baseline -0.002 -10"><span class='ocrx_word' id='word_1_1' title='bbox 288 1020 332 1052; x_wconf 85' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_2' title='bbox 360 1020 585 1052; x_wconf 76' lang='lat' dir='ltr'>Homobonus</span> <span class='ocrx_word' id='word_1_3' title='bbox 611 1019 743 1051; x_wconf 79' lang='lat' dir='ltr'>Poenit.</span> <span class='ocrx_word' id='word_1_4' title='bbox 767 1030 828 1061; x_wconf 78' lang='lat' dir='ltr'>pro</span> <span class='ocrx_word' id='word_1_5' title='bbox 856 1019 1034 1051; x_wconf 52' lang='lat' dir='ltr'>Illustriss</span> <span class='ocrx_word' id='word_1_6' title='bbox 1061 1017 1162 1049; x_wconf 83' lang='lat' dir='ltr'>Card.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1192 1017 1404 1060; x_wconf 71' lang='lat' dir='ltr'>Archiepisc.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 338 1116 572 1157; baseline -0.004 -11"><span class='ocrx_word' id='word_1_8' title='bbox 338 1116 572 1157; x_wconf 80' lang='lat' dir='ltr'>Imprimatur.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 291 1208 1388 1252">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 291 1208 1388 1252">
+     <span class='ocr_line' id='line_1_3' title="bbox 291 1208 1388 1252; baseline -0.002 -11"><span class='ocrx_word' id='word_1_9' title='bbox 291 1209 331 1243; x_wconf 79' lang='lat' dir='ltr'>F.</span> <span class='ocrx_word' id='word_1_10' title='bbox 353 1210 556 1252; x_wconf 75' lang='lat' dir='ltr'>Hieronym.</span> <span class='ocrx_word' id='word_1_11' title='bbox 579 1209 738 1252; x_wconf 82' lang='lat' dir='ltr'><strong>Onuphr.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 758 1221 820 1251; x_wconf 83' lang='lat' dir='ltr'>pro</span> <span class='ocrx_word' id='word_1_13' title='bbox 839 1208 1080 1241; x_wconf 69' lang='lat' dir='ltr'><strong>Reverendiss.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1100 1208 1139 1240; x_wconf 89' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1160 1208 1234 1250; x_wconf 83' lang='lat' dir='ltr'>Inq.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1257 1208 1388 1240; x_wconf 81' lang='lat' dir='ltr'>Bonon.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
